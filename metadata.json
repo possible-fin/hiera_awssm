@@ -1,0 +1,13 @@
+{
+  "name": "hiera_awssm",
+  "version": "0.1",
+  "author": "Cott Lang",
+  "license": "GPL-3.0-only",
+  "summary": "Hiera 5 backend to query secrets from AWS Secrets Manager",
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.9.0"
+    }
+  ]
+}
